@@ -94,4 +94,11 @@ Ejercicio 4 - Promedios Para el mismo problema anterior.
 La cantidad de elementos que recibirá el programa es variable.  
 
 
+Se adjuntan imagenes del proyecto
 
+imagen 1 :
+ ![img.png](imagenes%20del%20proyecto%2Fimg.png)
+imagen 2 : 
+![img_1.png](imagenes%20del%20proyecto%2Fimg_1.png)
+imagen 3 : 
+![img_2.png](imagenes%20del%20proyecto%2Fimg_2.png)
